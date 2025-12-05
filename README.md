@@ -2,6 +2,8 @@
 
 It's a place for projects I'm currently working on.
 
+- blog: https://msolomatin.net
+
 <!--
 **msolomatin/msolomatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
